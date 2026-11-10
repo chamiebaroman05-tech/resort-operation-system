@@ -11,7 +11,7 @@ public class Authentication {
 
         while (true) {
             System.out.println("\n=========================================");
-            System.out.println("   HOTEL MANAGEMENT SYSTEM - WELCOME     ");
+            System.out.println("   RESORT OPERATION SYSTEM - WELCOME     ");
             System.out.println("=========================================");
             System.out.println("1. Login");
             System.out.println("2. Register");
